@@ -4,3 +4,4 @@ tmp/
 *.db
 *.DS_Store
 Thumbs.db
+*html_old
